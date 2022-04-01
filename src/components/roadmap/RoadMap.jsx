@@ -22,7 +22,7 @@ function RoadMap() {
                 <li>
                     <h3 class="title">designer merch collection zero</h3>
                     <p>A collection of 500 designer metajet clothing pieces. These will be designed by our own fashion designer OutKrigh. Once all 500 pieces are claimed by crewpass holders, they will never be available again. Must own a CrewPass claim.</p>
-                    <a href="#">Read More</a>
+                    <a href="#responsive-header">Read More</a>
                     <span class="circle"></span>
                     <span class="date">60%</span>
                 </li>

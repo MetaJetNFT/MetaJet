@@ -29,7 +29,7 @@ function Header() {
       </a>
     </div>
     <div>
-      <a href="#" class="inline-block text-sm px-4 py-2 leading-none border rounded text-white border-white hover:border-white hover:text-pink-500 hover:bg-black mt-4 lg:mt-0">Marketplace</a>
+      <a href="#responsive-header" class="inline-block text-sm px-4 py-2 leading-none border rounded text-white border-white hover:border-white hover:text-pink-500 hover:bg-black mt-4 lg:mt-0">Marketplace</a>
     </div>
   </div>
   <ul class="w-full block flex-grow lg:flex lg:items-center lg:w-auto">
