@@ -4,15 +4,14 @@ import './mainanimation.css'
 
 function MainAnimation() {
   return (
-    <div class="aspect-w-16 aspect-h-9">
-      <video loop autoPlay muted>
-        <source
-          src={NoSound}
-          type="video/mp4"
+     <div
+          dangerouslySetInnerHTML={{
+            __html: `<video className="aspect-w-16 aspect-h-9" autoplay loop muted playsinline>
+      <source src=${NoSound} type="video/mp4" />
+      Your browser does not support the video tag.
+</video>`,
+          }}
         />
-        Your browser does not support the video tag.
-      </video>
-    </div>
   )
 }
 
