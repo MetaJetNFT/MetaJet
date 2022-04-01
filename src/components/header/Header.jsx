@@ -1,7 +1,5 @@
 import React from 'react'
 import 'font-awesome/css/font-awesome.min.css';
-
-import { SocialIcon } from 'react-social-icons';
 import { FaBars } from 'react-icons/fa'
 
 
