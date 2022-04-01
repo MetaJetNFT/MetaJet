@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ca8ccf6d.css",
+    "main.js": "/static/js/main.47cd6739.js",
+    "static/media/NoSound.mp4": "/static/media/NoSound.015ff8fd8d320dab1f9c.mp4",
+    "static/media/user2.png": "/static/media/user2.83e131b093e7987b624a.png",
+    "static/media/bigmacca-webfont.woff": "/static/media/bigmacca-webfont.d8505f050fe8ae52c272.woff",
+    "static/media/bigmacca-webfont.woff2": "/static/media/bigmacca-webfont.78f4bf84b01f17ffa6fd.woff2",
+    "index.html": "/index.html",
+    "main.ca8ccf6d.css.map": "/static/css/main.ca8ccf6d.css.map",
+    "main.47cd6739.js.map": "/static/js/main.47cd6739.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca8ccf6d.css",
+    "static/js/main.47cd6739.js"
+  ]
+}
