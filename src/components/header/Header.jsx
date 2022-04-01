@@ -1,40 +1,38 @@
 import React from 'react'
-import './header.css';
 import { SocialIcon } from 'react-social-icons';
 
-function ScrollToId(e){
-  window.location.href="#team";
-}
 
 function Header() {
   return(
-         <nav id="nav-wrap">
-         <a className="mobile-btn" href="#nav-wrap" title="Show navigation">Show navigation</a>
-	      <a className="mobile-btn" title="Hide navigation">Hide navigation</a>
+<nav class="flex items-center justify-between flex-wrap bg-black-500 p-6">
+  <div class="flex items-center flex-shrink-0 text-white mr-6">
 
-         <ul id="nav" className="nav">
-            <li className="current"><a className="smoothscroll" href="#home">Home</a></li>
-            <li><a className="smoothscroll" href="#crewpass">Crewpass</a></li>
-	         <li><a className="smoothscroll" href="#roadmap">Roadmap</a></li>
-            <li><a className="smoothscroll" href="#team">Team</a></li>
-            <li><a className="smoothscroll" href="#marketplace">Marketplace</a></li>
-         </ul>
-
-         <ul className='sci'>
-         <li >
-       <SocialIcon url="https://twitter.com/metajetnft?s=21" bgColor="#fff" style={{ height: 40, width: 40 }}/>
-        </li>
-        <li >
-       <SocialIcon url="https://linkedin.com/" bgColor="#fff" style={{ height: 40, width: 40 }}/>
-        </li>
-         <li>
-       <SocialIcon url="https://instagram.com/" bgColor="#fff" style={{ height: 40, width: 40 }}/>
-        </li>
-         <li > 
-       <SocialIcon url="https://discord.com/" bgColor="#fff" style={{ height: 40, width: 40 }}/>
-        </li>
-        </ul>
-        </nav>
+  </div>
+  <div class="block lg:hidden">
+    <button class="flex items-center px-3 py-2 border rounded text-black-200 border-black-400 hover:text-white hover:border-white">
+      <svg class="fill-current h-3 w-3" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><title>Menu</title><path d="M0 3h20v2H0V3zm0 6h20v2H0V9zm0 6h20v2H0v-2z"/></svg>
+    </button>
+  </div>
+  <div class="w-full block flex-grow lg:flex lg:items-center lg:w-auto">
+    <div class="text-sm lg:flex-grow">
+      <a href="#responsive-header" class="block mt-4 lg:inline-block lg:mt-0 text-pink-200 hover:text-white mr-4">
+        Crewpass
+      </a>
+      <a href="#responsive-header" class="block mt-4 lg:inline-block lg:mt-0 text-pink-200 hover:text-white mr-4">
+        RoadMap
+      </a>
+      <a href="#responsive-header" class="block mt-4 lg:inline-block lg:mt-0 text-pink-200 hover:text-white mr-4">
+        Team
+      </a>
+      <a href="#responsive-header" class="block mt-4 lg:inline-block lg:mt-0 text-pink-200 hover:text-white mr-4">
+        Marketplace
+      </a>
+    </div>
+    <div>
+      <a href="#" class="inline-block text-sm px-4 py-2 leading-none border rounded text-white border-white hover:border-white hover:text-pink-500 hover:bg-black mt-4 lg:mt-0">Marketplace</a>
+    </div>
+  </div>
+</nav>
   );
 }
 
