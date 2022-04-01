@@ -4,7 +4,7 @@ import './mainanimation.css'
 
 function MainAnimation() {
   return (
-    <div>
+    <div class="aspect-w-16 aspect-h-9">
       <video loop autoPlay muted>
         <source
           src={NoSound}
