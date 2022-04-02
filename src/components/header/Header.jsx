@@ -21,13 +21,13 @@ export default function Header({ fixed }) {
 
                 <div class="w-full block flex-grow lg:flex lg:items-center lg:w-auto">
     <div class="text-sm lg:flex-grow">
-      <a href="#responsive-header" class="block mt-4 lg:inline-block lg:mt-0 text-pink-200 hover:text-white mr-4">
+      <a href="#crewpass" class="block mt-4 lg:inline-block lg:mt-0 text-pink-200 hover:text-white mr-4">
         Crewpass
       </a>
-      <a href="#responsive-header" class="block mt-4 lg:inline-block lg:mt-0 text-pink-200 hover:text-white mr-4">
+      <a href="#roadmap" class="block mt-4 lg:inline-block lg:mt-0 text-pink-200 hover:text-white mr-4">
         RoadMap
       </a>
-      <a href="#responsive-header" class="block mt-4 lg:inline-block lg:mt-0 text-pink-200 hover:text-white mr-4">
+      <a href="#team" class="block mt-4 lg:inline-block lg:mt-0 text-pink-200 hover:text-white mr-4">
         Team
       </a>
     
