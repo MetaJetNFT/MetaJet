@@ -36,6 +36,7 @@
 /* Container CSS Start  */
 
 .roadcontainer {
+    margin-top: 100px;
     width: 70%;
     height: auto;
     position: relative;
@@ -109,6 +110,7 @@ ul li a {
 
 ul li .date {
     position: absolute;
+    margin-top: 10px;
     top: -48px;
     width: 135px;
     height: 35px;
