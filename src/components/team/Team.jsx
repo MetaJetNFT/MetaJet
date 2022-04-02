@@ -1,6 +1,5 @@
 import React from 'react';
 import './team.css';
-import User from '../../assets/user2.png';
 import Andrew from '../../assets/andrew.jpeg';
 import Cole from '../../assets/cole.jpeg';
 import Ethan from '../../assets/ethan.jpeg';
