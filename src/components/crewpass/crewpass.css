@@ -7,11 +7,11 @@
     flex: 1;
     display: flex;
     justify-content: center;
-    align-items: flex-start;
     flex-direction: column;
     color: #fff;
     margin-right: 5rem;
 }
+
 
 
 .gpt3__header-content p {
