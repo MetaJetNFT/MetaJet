@@ -4,7 +4,7 @@ import './roadmap.css'
 function RoadMap() {
   return (
     <div class="main">
-        <h3 class="heading">METAJET ROADMAP</h3>
+        <h1 class="heading">METAJET ROADMAP</h1>
         <div class="roadcontainer">
             <ul>
                 <li>

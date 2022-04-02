@@ -4,13 +4,19 @@ import User from '../../assets/user2.png';
 import Andrew from '../../assets/andrew.jpeg';
 import Cole from '../../assets/cole.jpeg';
 import Ethan from '../../assets/ethan.jpeg';
+import Curtis from '../../assets/curtis.jpeg';
+import Luke from '../../assets/luke.jpeg';
+import Catherine from '../../assets/catherine.jpg';
 import { SocialIcon } from 'react-social-icons';
 
 
 function Team() {
   return (
     <section href="#team">
+    <h1 class="heading">Our Team</h1>
     <div className="container">
+
+    
 
       <div className="card">
       <div className="content">
@@ -59,7 +65,7 @@ function Team() {
        <div className="card">
       <div className="content">
       <div className="imgBx">
-        <img src={User} alt="" />
+        <img src={Luke} alt="" />
       </div>
       <div className="contentBx">
         <h3>Luke<br/><span>Co-Founder</span></h3>
@@ -106,7 +112,7 @@ function Team() {
       <div className="card">
       <div className="content">
       <div className="imgBx">
-        <img src={User} alt="" />
+        <img src={Catherine} alt="" />
       </div>
       <div className="contentBx">
         <h3>Catherine<br/><span>Frontend Developer</span></h3>
@@ -128,7 +134,7 @@ function Team() {
       <div className="card">
       <div className="content">
       <div className="imgBx">
-        <img src={User} alt="" />
+        <img src={Curtis} alt="" />
       </div>
       <div className="contentBx">
         <h3>Kurtis aka OutKrigh<br/><span>Fashion Designer</span></h3>

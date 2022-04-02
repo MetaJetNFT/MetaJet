@@ -14,9 +14,11 @@ video {
 
 
 h1 {
-  font-size: 38px;
+  color:#dc00f0;
+  font-size: 62px;
+  letter-spacing: 2px;
   line-height: 42px;
-  margin-bottom: 12px;
+  margin-bottom: 80px;
   letter-spacing: -1px;
 }
 
