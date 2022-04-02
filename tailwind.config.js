@@ -6,7 +6,7 @@ module.exports = {
       current: 'currentColor',
       'white': '#ffffff',
       'black': '#1b0e1a',
-      'purple': '#6a06ec',
+      'purple': '#8122b2',
       'pink': '#dc00f0',
       'tahiti': '#3ab7bf',
       'silver': '#ecebff',

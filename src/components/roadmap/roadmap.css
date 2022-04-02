@@ -23,6 +23,16 @@
     transform: translateX(-50%);
 }
 
+.title{
+      text-align: center;
+      color:#8122b2;
+      font-size: 22px;
+      letter-spacing: 3px;
+      
+      position: relative;
+      letter-spacing: -1px;
+}
+
 /* Container CSS Start  */
 
 .roadcontainer {
