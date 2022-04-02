@@ -12,7 +12,7 @@ import { SocialIcon } from 'react-social-icons';
 function Team() {
   return (
     <section id="team">
-    <h1 class="heading">Our Team</h1>
+    <h1 className="neonlogo">Our Team</h1>
     <div className="container">
 
     
