@@ -12,7 +12,7 @@ const CrewPass = () => (
     </div>
 
     <div className="gpt3__header-image">
-      <img src={crewpass} alt="ai"/>
+      <img src={crewpass} alt="crewpass"/>
     </div>
   </div>
 
