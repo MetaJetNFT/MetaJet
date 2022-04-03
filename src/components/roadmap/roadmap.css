@@ -192,7 +192,6 @@ ul li .date {
 
     .roadcontainer ul li:nth-child(odd) .date {
         left: 20px;
-        margin-bottom: 5px;
     }
 
     .roadcontainer ul li:nth-child(odd) .circle {

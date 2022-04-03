@@ -31,7 +31,7 @@ function RoadMap() {
                     <span class="circle"></span>
                     <span class="date">80%</span>
                 </li>
-                <li>
+                 <li>
                     <h3 class="title">phase one commences</h3>
                     <h3>phase one roadmap will begin production. Collection one will be launched with a goal of 2-3 months after 100% sellout of the Crew Pass. MetaJet is here for the future! </h3>
                     <span class="circle"></span>
