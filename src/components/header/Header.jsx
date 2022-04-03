@@ -1,6 +1,8 @@
 import React from 'react'
 import 'font-awesome/css/font-awesome.min.css';
-import { FaBars } from 'react-icons/fa'
+import { FaBars } from 'react-icons/fa';
+import { SocialIcon } from 'react-social-icons';
+
 
 
 export default function Header({ fixed }) {
@@ -21,19 +23,37 @@ export default function Header({ fixed }) {
 
                 <div class="w-full block flex-grow lg:flex lg:items-center lg:w-auto">
     <div class="text-sm lg:flex-grow">
-      <a href="#crewpass" class="block mt-4 lg:inline-block lg:mt-0 text-purple-600 hover:text-white mr-4">
+      <a href="#crewpass" className="neonlogo" class="block mt-4 lg:inline-block lg:mt-0 text-purple-600 hover:text-white mr-4">
         Crewpass
       </a>
-      <a href="#roadmap" class="block mt-4 lg:inline-block lg:mt-0 text-purple-600 hover:text-white mr-4">
+      <a href="#roadmap" className="neonlogo"class="block mt-4 lg:inline-block lg:mt-0 text-purple-600 hover:text-white mr-4">
         RoadMap
       </a>
-      <a href="#team" class="block mt-4 lg:inline-block lg:mt-0 text-purple-600 hover:text-white mr-4">
+      <a href="#team" className="neonlogo" class="block mt-4 lg:inline-block lg:mt-0 text-purple-600 hover:text-white mr-4">
         Team
       </a>
     
     </div>
     </div>
-                  <div>
+                
+
+
+        <div class="text-sm lg:flex-grow">
+         <li class="block mt-4 lg:inline-block lg:mt-0 text-purple-600 hover:text-white mr-4">
+       <SocialIcon url="https://twitter.com/MetaJetNFT" bgColor="#fff" style={{ height: 40, width: 40 }}/>
+        </li>
+         <li class="block mt-4 lg:inline-block lg:mt-0 text-purple-600 hover:text-white mr-4">
+       <SocialIcon url="https://www.instagram.com/metajetnft.io/" bgColor="#fff" style={{ height: 40, width: 40 }}/>
+        </li>
+         <li class="block mt-4 lg:inline-block lg:mt-0 text-purple-600 hover:text-white mr-4"> 
+       <SocialIcon url="https://discord.com/invite/Rkx5Zkc2QH" bgColor="#fff" style={{ height: 40, width: 40 }}/>
+        </li>
+        <li class="block mt-4 lg:inline-block lg:mt-0 text-purple-600 hover:text-white mr-4">
+       <SocialIcon url="https://www.linkedin.com/company/meta-jet/" bgColor="#fff" style={{ height: 40, width: 40 }}/>
+        </li>
+        </div>
+
+         <div>
               <a href="#responsive-header" class="inline-block text-sm px-4 py-2 leading-none border rounded text-white border-white hover:border-white hover:text-pink-500 hover:bg-black mt-4 lg:mt-0">Marketplace</a>
                  </div>
 
