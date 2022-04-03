@@ -21,6 +21,7 @@
     color: white;
     animation: neon 3s infinite;
     position: relative;
+    margin-right: 30px;
 }
 
 @keyframes neon {

@@ -21,15 +21,15 @@ export default function Header({ fixed }) {
               (headerOpen ? " flex" : " hidden")}
             id="example-navbar-danger">
 
-                <div class="w-full block flex-grow lg:flex lg:items-center lg:w-auto">
+              <div class="w-full block flex-grow lg:flex lg:items-center lg:w-auto">
     <div class="text-sm lg:flex-grow">
-      <a href="#crewpass" className="neonlogo" class="block mt-4 lg:inline-block lg:mt-0 text-purple-600 hover:text-white mr-4">
+      <a href="#crewpass" class="block mt-4 lg:inline-block lg:mt-0 text-purple-600 hover:text-white mr-4" className="neonlogo">
         Crewpass
       </a>
-      <a href="#roadmap" className="neonlogo"class="block mt-4 lg:inline-block lg:mt-0 text-purple-600 hover:text-white mr-4">
+      <a href="#roadmap" class="block mt-4 lg:inline-block lg:mt-0 text-purple-600 hover:text-white mr-4" className="neonlogo">
         RoadMap
       </a>
-      <a href="#team" className="neonlogo" class="block mt-4 lg:inline-block lg:mt-0 text-purple-600 hover:text-white mr-4">
+      <a href="#team" class="block mt-4 lg:inline-block lg:mt-0 text-purple-600 hover:text-white mr-4" className="neonlogo">
         Team
       </a>
     
