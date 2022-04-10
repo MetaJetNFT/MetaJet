@@ -1,5 +1,4 @@
 import React from 'react'
-import logo from '../../assets/apple-touch-icon.png'
 import { SocialIcon } from 'react-social-icons';
 
 function Footer() {
