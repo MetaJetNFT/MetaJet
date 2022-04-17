@@ -80,7 +80,7 @@ section::after {
 
 .container .card .sci li {
     list-style: none;
-    margin: 0 10px;
+    margin: 10px 10px;
     transform: translateY(40px);
     opacity: 0;
     transition: .5s;

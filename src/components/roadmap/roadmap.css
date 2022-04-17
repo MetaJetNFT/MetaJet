@@ -111,6 +111,7 @@ ul li a {
 ul li .date {
     position: absolute;
     margin-top: 10px;
+    margin-bottom: 10px;
     top: -48px;
     width: 135px;
     height: 35px;
