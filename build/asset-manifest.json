@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a18ca6d1.css",
+    "main.js": "/static/js/main.d5554c77.js",
+    "static/media/crewpass.png": "/static/media/crewpass.69982c4adf00f1f2336f.png",
+    "static/media/Metajet.mp4": "/static/media/Metajet.920564193174c43c3760.mp4",
+    "static/media/catherine.jpg": "/static/media/catherine.07d2c8376e1659751cc0.jpg",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/luke.jpeg": "/static/media/luke.ab1a139bd332c5202f56.jpeg",
+    "static/media/curtis.jpeg": "/static/media/curtis.4355b821b2d7a8961f93.jpeg",
+    "static/media/andrew.jpeg": "/static/media/andrew.91b931c010d7bc95a91a.jpeg",
+    "static/media/bigmacca-webfont.woff": "/static/media/bigmacca-webfont.d8505f050fe8ae52c272.woff",
+    "static/media/bigmacca-webfont.woff2": "/static/media/bigmacca-webfont.78f4bf84b01f17ffa6fd.woff2",
+    "index.html": "/index.html",
+    "main.a18ca6d1.css.map": "/static/css/main.a18ca6d1.css.map",
+    "main.d5554c77.js.map": "/static/js/main.d5554c77.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a18ca6d1.css",
+    "static/js/main.d5554c77.js"
+  ]
+}
