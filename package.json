@@ -1,5 +1,6 @@
 {
   "name": "meta-jet",
+  "homepage": "http://www.metajetnft.io/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
