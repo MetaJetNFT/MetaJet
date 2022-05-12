@@ -1,7 +1,7 @@
 import 'font-awesome/css/font-awesome.min.css';
 import { FaBars } from 'react-icons/fa';
 import { SocialIcon } from 'react-social-icons';
-import React from "react";ß
+import React from "react"
 
 const Header = () => {
   const [headerOpen, setHeaderOpen] = React.useState(false);
