@@ -1,7 +1,7 @@
 import 'font-awesome/css/font-awesome.min.css';
 import { FaBars } from 'react-icons/fa';
 import { SocialIcon } from 'react-social-icons';
-import React, { useState } from "react";
+import React from "react";ß
 
 const Header = () => {
   const [headerOpen, setHeaderOpen] = React.useState(false);
@@ -59,7 +59,7 @@ const Header = () => {
         </div>
         <div>
           <a
-            href="#"
+            href="#home"
             class="text-sm px-4 py-2 leading-none border rounded text-white border-white hover:border-white hover:text-pink-500 hover:bg-black mt-4 lg:mt-0"
           >
             Marketplace
