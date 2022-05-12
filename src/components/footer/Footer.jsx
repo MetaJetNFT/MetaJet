@@ -15,7 +15,7 @@ function Footer() {
                   
                 </div>
 
-                <div class="flex mt-1 mb-12 flex-row justify-center">
+                <div class="flex mt-1 mb-12 flex-row justify-center list-none">
          <li class="mt-4 lg:inline-block lg:mt-0 mr-4">
        <SocialIcon url="https://twitter.com/MetaJetNFT" bgColor="#fff" style={{ height: 40, width: 40 }}/>
         </li>

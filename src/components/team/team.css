@@ -49,8 +49,8 @@ section::after {
 
 .container .card {
     position: relative;
-    width: 260px;
-    height: 400px;
+    width: 220px;
+    height: 350px;
     background: rgba(255, 255, 255, 0.06);
     box-shadow: 0 15px 35px rgba(0, 0, 0, 0.2);
     margin: 20px;
@@ -82,7 +82,6 @@ section::after {
     list-style: none;
     margin: 10px 10px;
     transform: translateY(40px);
-    opacity: 0;
     transition: .5s;
 }
 
