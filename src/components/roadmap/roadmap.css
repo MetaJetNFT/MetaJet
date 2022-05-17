@@ -25,12 +25,10 @@
 
 .title{
       text-align: center;
-      color:#8122b2;
+      color: white;
       font-size: 22px;
-      letter-spacing: 3px;
-      
       position: relative;
-      letter-spacing: -1px;
+      letter-spacing: 2px;
 }
 
 /* Container CSS Start  */
@@ -44,7 +42,6 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    opacity: 0.7;
     transition: .5s;
 }
 
