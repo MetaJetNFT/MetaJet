@@ -8,7 +8,7 @@ import './App.css';
 const App = () => (
   <>
   <Navbar />
-  {/* <MainAnimation /> */}
+  <MainAnimation /> 
   <CrewPass />
   <RoadMap />
   <Team />
