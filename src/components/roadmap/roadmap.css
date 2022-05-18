@@ -166,6 +166,13 @@ ul li .date {
 }
 
 @media screen and (max-width:933px) {
+
+    .neonlogo{
+        font-size: 24px;
+        line-height: 24px;
+        margin-bottom: 5px;
+        margin-top: 5px;
+    }
     .roadcontainer {
         width: 80%;
         transform: translateX(15px);
@@ -202,6 +209,10 @@ ul li .date {
     }
 
     .roadcontainer h3{
-        font-size:12px;
+        font-size: 15px;
+    }
+
+    .roadcontainer p{
+        font-size: 10px;
     }
 }

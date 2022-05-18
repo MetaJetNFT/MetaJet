@@ -53,7 +53,7 @@ section::before {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    opacity: 0.7;
+    /* opacity: 0.7; */
     transition: .5s;
 }
 
@@ -70,14 +70,14 @@ section::before {
     transition: .5s;
 }
 
-.teamcontainer .card:hover .sci li{
+/* .teamcontainer .card:hover .sci li{
     opacity: 1;
-}
+} */
 
 
-.teamcontainer .card:hover .content {
+/* .teamcontainer .card:hover .content {
     opacity: 1;
-}
+} */
 
 .teamcontainer .card .content .contentBx h3 {
     color:#fff;
