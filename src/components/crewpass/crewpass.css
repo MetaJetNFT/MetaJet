@@ -18,7 +18,7 @@
 }
 
 .neonlogo {
-    letter-spacing: 5px;
+    letter-spacing: 10px;
     color: white;
     animation: neon 3s infinite;
     position: relative;

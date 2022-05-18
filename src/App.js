@@ -1,5 +1,5 @@
 import React from "react";
-import { Header, Footer, MainAnimation, CrewPass, RoadMap, Team } from "./components";
+import { Navbar, Footer, MainAnimation, CrewPass, RoadMap, Team } from "./components";
 import './App.css';
 
 
@@ -7,8 +7,8 @@ import './App.css';
 
 const App = () => (
   <>
-  <Header />
-  <MainAnimation />
+  <Navbar />
+  {/* <MainAnimation /> */}
   <CrewPass />
   <RoadMap />
   <Team />
